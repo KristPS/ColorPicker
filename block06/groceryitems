@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="style.css" type="text/css" rel="stylesheet" />
+    <link href="desktop.css" rel="stylesheet" media="screen and (min-width: 600ps)" />
+</head>
+
+<h1 style="color:brown;
+  margin: 25px;
+  text-align: center;
+">GROCERY LIST
+
+</h1>
+
+
+</style>
+</title>
+
+
+<body>
+
+    <h2 style="color:blue;
+        height: px;
+        width: 1000px;
+        padding: 20px;
+        margin: 25px;
+        border: 2px solid black;
+        background-color: bisque;
+        margin: 20px;
+  text-align: center;"> PANTRY ITEMS
+    </h2>
+
+
+
+
+    <img src="https://media.istockphoto.com/id/859612584/vector/tins-canned-goods-food-container-grocery-store-and-product-storage-aluminum-label-conserve.jpg?s=612x612&w=is&k=20&c=TAzZdGkQH_c-9fddLyuPv8DT4z15SfSSRvhT5htKKh8="
+        alt="Pantry Items" style="width:220px;height:220;margin:30px">
+
+
+
+    <h3 style=" color:black;
+        height: auto;
+        width: 1000px;
+        padding: 20px;
+        margin: 25px;
+        border: 2px solid black;
+        background-color: greenyellow;">CANNED ITEMS
+
+        <li>Corn</li>
+        <li>Beans</li>
+        <li>Soups</li>
+
+    </h3>
+    </div>
+
+
+
+
+    <h3 style=" color:black;
+            height: auto;
+            width: 1000px;
+            padding: 20px;
+            margin: 25px;
+            border: 2px solid black;
+            background-color: greenyellow;">DRY GOODS
+        <li>Flour</li>
+        <li>Sugar</li>
+        <li>Pasta</li>
+
+    </h3>
+    </div>
+
+
+    <h2 style="color:blue;
+            height: px;
+            width: 1000px;
+            padding: 20px;
+            margin: 25px;
+            border: 2px solid black;
+            background-color: bisque;
+            text-align: center;"> HEALTHY ITEMS
+    </h2>
+
+    <img src="https://media.istockphoto.com/id/1457433817/photo/group-of-healthy-food-for-flexitarian-diet.jpg?s=1024x1024&w=is&k=20&c=iBBM7YTn5Rf-QhCd0kkvFaDNLV6Rb02iMQlS39LSSTI="
+        alt="Veggies and Fruits" style="width:220px;height:220;margin: 25px">
+    <h3 style=" color:black;
+            height: auto;
+            width: 1000px;
+            padding: 20px;
+            margin: 25px;
+            border: 2px solid black;
+            background-color: greenyellow;">VEGGIES
+        <li>Baby Spinach</li>
+        <li>Carrots</li>
+        <li>Avocados</li>
+    </h3>
+
+    <h3 style=" color:black;
+            height: auto;
+            width: 1000px;
+            padding: 20px;
+            margin: 25px;
+            border: 2px solid black;
+            background-color: greenyellow;">FRUITS
+        <li>Oranges</li>
+        <li>Apples</li>
+        <li>Bananas</li>
+    </h3>
+
+    </style>
+
+
+    </h3>
+    </div>
+</body>
+
+</html>
