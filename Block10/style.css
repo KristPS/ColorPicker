@@ -1,0 +1,44 @@
+body {margin: 0;
+display: flex;
+flex-direction: column;
+height: 100vh;
+flex: 1;
+}
+main {background: coral;
+    background: 
+    flex:1;
+}
+footer {background: blueviolet;}
+header {background: lightskyblue;
+height: 100px;
+}
+
+ul {
+    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    margin: 0;
+    justify-content: space-evenly;
+}
+
+li {list-style: none;
+padding: 10px;
+cursor: pointer;}
+li hover{background: lightcoral;}
+.paragraphs {
+display:flex;
+flex-wrap: wrap;
+}
+p {
+    flex: 1 1 250px;
+
+}
+
+@media (min-width: 1000px) {
+    .paragraphs {flex-wrap: wrap;
+        flex-direction: row;
+}
+p {
+    flex: 1 1 250px;
+}
